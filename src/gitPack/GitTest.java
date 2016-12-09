@@ -9,6 +9,8 @@ public class GitTest {
 
 		System.out.println("pushs");
 		System.out.println("pushs");
+
+		//ノートパソコン
 	}
 
 }

@@ -6,6 +6,8 @@ public class GitTest {
 
 		System.out.println("changeRep");
 		System.out.println("local");
+
+		System.out.println("pushs");
 	}
 
 }

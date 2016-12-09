@@ -5,6 +5,7 @@ public class GitTest {
 		System.out.println("create Rep");
 
 		System.out.println("changeRep");
+		System.out.println("local");
 	}
 
 }

@@ -8,6 +8,7 @@ public class GitTest {
 		System.out.println("local");
 
 		System.out.println("pushs");
+		System.out.println("pushs");
 	}
 
 }
